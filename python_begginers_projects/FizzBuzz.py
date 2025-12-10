@@ -11,13 +11,15 @@
 try:
     while(True):
         num = int(input("Whats your number(0 to exit):  "))
+        if num % 3 == 0 and num % 5 == 0:
+            print("fizzbuzz")
         if num % 3 == 0:
             print("fizz")
         if num % 5 == 0:
             print("buzz")
-        if num % 3 == 0 and num % 5 == 0:
-            print("fizzbuzz")
+       
         else:
             break
 except ValueError:
     print("Put a num bro")
+
