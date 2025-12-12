@@ -1,7 +1,7 @@
 // calc code
 
 const display = document.getElementById("display");
-
+// bc diplay already empty function appendtodisplay adds things there
 function appendToDisplay(input){
     display.value += input;
 }
@@ -20,4 +20,5 @@ function calculate(){
 }
 function clearDisplay(){
     display.value = "";
+
 }
