@@ -14,9 +14,7 @@ num_of_numbers = int(input("How many numbers do you want in the password: "))
 num_of_symbols = int(input("How many symbols do you want in the password: "))
 
 password_list = []
-
 # +1 so they include the last number
-
 for letter in range(1,num_of_letters + 1):
     password_l = random.choice(letters)
     password_list += password_l
@@ -36,6 +34,5 @@ random.shuffle(password_list)
 password = ""
 for char in password_list:
     password += char
-
 
 print(password)  
