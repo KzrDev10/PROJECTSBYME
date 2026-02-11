@@ -32,3 +32,4 @@ while not bid_finished:
 
 
 
+
