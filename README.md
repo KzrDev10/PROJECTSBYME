@@ -11,83 +11,103 @@ Welcome! This section highlights my main Python projects, demonstrating **Object
 **GitHub Link:** [Question_game_using_class.py](https://github.com/KzrDev10/PROJECTSBYME/tree/main/python_begginers_projects/Question_game_using_class.py)  
 **Description:**  
 A Python quiz game built using classes.  
-- Supports multiple players  
-- Tracks scores and displays the winner  
-- Easily extendable with new questions  
+-  Supports multiple players  
+-  Tracks scores and displays the winner  
+-  Easily extendable with new questions  
 
 **How to Run:**  
 
 python Question_game_using_class.py
+
 </details> <details> <summary>Blackjack 🃏</summary>
 
-GitHub Link: Black_Jack.py
+**GitHub Link**: [Black_Jack.py](https://github.com/KzrDev10/PROJECTSBYME/tree/main/python_begginers_projects/Black_Jack.py)
 
-Description:
-Card game simulation where you play against a computer dealer.
+**Description:**
+A Python simulation of the popular card game Blackjack
 
-Demonstrates Object-Oriented Programming in Python
+- Player plays against a computer dealer.
 
-Includes simple game logic and score tracking
+- Implements card shuffling, dealing, and score calculation.
 
-How to Run:
+- Demonstrates classes, methods, loops, and conditional logic.
+
+- Provides an interactive CLI- based gaming experience similar to real Blackjack rules.
+
+**How to Run:**
 
 python Black_Jack.py
 </details> <details> <summary>Caesar Cipher 🔐</summary>
 
-GitHub Link: Caeser cipher
+**GitHub Link** [Caeser cipher](https://github.com/KzrDev10/PROJECTSBYME/tree/main/python_begginers_projects/Caeser%20cipher)
 
-Description:
-Encrypts and decrypts messages using the Caesar cipher technique.
+**Description:**
+A text- based encryption tool implementing the Caesar Cipher algorithm.
 
-Simple string manipulation and loops
+- Allows users to encrypt and decrypt messages with a chosen shift value.
 
-Customizable shift value for encoding/decoding
+- Demonstrates string manipulation, loops, and ASCII character handling in Python.
 
-How to Run:
+- Can be used to secure simple messages, showcasing practical application of cryptography basics.
+
+- Designed with user- friendly input/output prompts for easy usage.
+**How to Run:**
 
 python "Caeser cipher.py"
 </details> <details> <summary>Hangman 🪤</summary>
 
-GitHub Link: Hangman_game
+**GitHub Link**: [Hangman_game](https://github.com/KzrDev10/PROJECTSBYME/tree/main/python_begginers_projects/Hangman_game)
 
-Description:
-Classic hangman game implemented in Python.
+**Description:**
+Classic Hangman game implemented in Python with enhanced features.
 
-Uses word lists for guessing
+- Uses predefined word lists for guessing and random selection.
 
-Tracks wrong guesses and ends game after max attempts
+- Tracks incorrect guesses and provides feedback until the word is solved or the player runs out of attempts.
 
-Can be extended with more words or difficulty levels
+- Demonstrates loops, conditionals, lists, and string indexing.
 
-How to Run:
+- Easy to add new words or change difficulty levels.
+
+- Provides a fun and interactive CLI experience, improving problem- solving and logic skills.
+
+**How to Run:**
 
 python hangman.py
+
 </details> <details> <summary>Higher or Lower 📊</summary>
 
-GitHub Link: Higher_or_lower
+**GitHub Link**: [Higher_or_lower](https://github.com/KzrDev10/PROJECTSBYME/tree/main/python_begginers_projects/Higher_or_lower)
 
-Description:
-Number-guessing game where the player predicts if the next number is higher or lower.
+**Description:**
+A number- guessing game that challenges the player to predict whether the next number is higher or lower than the current one.
 
-Tracks streaks and correct guesses
+- Tracks player streaks and provides feedback for each guess.
 
-Uses random number generation and conditional logic
+- Demonstrates conditional statements, loops, random number generation, and user input handling.
 
-How to Run:
+- Simple but engaging command- line interface, ideal for learning basic Python programming concepts.
+
+- Can be extended with features like scoreboards or difficulty levels.
+**How to Run:**
 
 python higher_or_lower.py
 </details> <details> <summary>Blind Auction 💰</summary>
 
-GitHub Link: blind_auction
+**GitHub Link**: [blind_auction](https://github.com/KzrDev10/PROJECTSBYME/tree/main/python_begginers_projects/blind_auction)
 
-Description:
-A multi-player auction game where players submit secret bids.
+**Description:**
+A multi- player blind auction game implemented in Python.
 
-Determines winner based on highest bid
+- Each player submits a secret bid, and the winner is determined by the highest bid.
 
-Demonstrates dictionaries and input handling in Python
+- Demonstrates dictionary usage, loops, and input validation.
 
-How to Run:
+- Simulates real- world auction mechanics in a command- line environment.
+
+- Highlights problem- solving and Python data structures, while providing an interactive gaming experience.
+
+**How to Run:**
 
 python blind_auction/main.py
-</details> </details> ```
+</details> </details>
