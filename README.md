@@ -1,2 +1,17 @@
-# PROJECTSBYME
-This repository is to track my python journey asthis the first language im posting here i have intermediate experience in html a bit in css was about to start javascript when i chose to start python . Once again this is to track my journey as i go through python
+# My Python Projects Portfolio
+
+Welcome! This repository contains several Python projects I have built to practice **Object-Oriented Programming (OOP)**, game development, and basic algorithms.
+
+---
+
+## Featured Project: Quiz Game 🎯
+**Description:** A quiz game built using classes in Python.  
+- Supports multiple players  
+- Tracks scores and displays the winner  
+- Easily extendable with new questions  
+
+**How to run:**
+1. Navigate to the `QuizGame` folder.
+2. Run the main Python file:
+```bash
+python quiz_game.py
